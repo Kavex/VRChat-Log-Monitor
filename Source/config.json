@@ -1,0 +1,39 @@
+{
+  "log_directory": "C:\\Users\\%USERNAME%\\AppData\\LocalLow\\VRChat\\VRChat",
+  "log_pattern": "output_log_*.txt",
+  "output_log_prefix": "parsed_log_",
+  "discord": {
+    "enabled": false,
+    "bot_token": "YOUR_BOT_TOKEN",
+    "channel_id": "YOUR_CHANNEL_ID"
+  },
+  "events": {
+    "OnPlayerJoined": {
+      "color": "#008000"
+    },
+    "OnPlayerJoinComplete": {
+      "color": "#008000"
+    },
+    "[Behaviour] Initialized": {
+      "color": "#0000FF"
+    },
+    "StickersManager": {
+      "color": "#FF00FF"
+    },
+    "OnPlayerLeft": {
+      "color": "#FF0000"
+    },
+    "Unpacking Avatar": {
+      "color": "#00FFFF"
+    },
+    "colliders": {
+      "color": "#E1C16E"
+    },
+    "CacheComponents": {
+      "color": "#008080"
+    },
+    "saving": {
+      "color": "#800080"
+    }
+  }
+}
