@@ -33,7 +33,13 @@
       "color": "#008080"
     },
     "saving": {
-      "color": "#800080"
+      "color": "#00FFFF"
+    },
+    "NSFW": {
+      "color": "#900C3F"
+    } ,
+    "Thisisjustatest": {
+      "color": "#F299F8"
     }
   }
 }
