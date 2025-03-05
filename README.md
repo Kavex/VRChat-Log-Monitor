@@ -10,7 +10,7 @@ This project is a real-time VRChat log monitor built with Python and Tkinter. It
 - **Event Parsing:** Detects events (e.g., `OnPlayerJoined`, `OnPlayerLeft`, etc.) defined in the configuration.
 - **GUI Display:** Uses Tkinter to display events with event-specific colors.
 - **Log Output:** Writes parsed events with timestamps to a file named with the current date (e.g., `parsed_log_2025-03-04.txt`).
-- **Discord Integration:** Posts notifications as Discord embeds with colors matching the event definitions.
+- **Optional Discord Integration:** Posts notifications as Discord embeds with colors matching the event definitions. This setting is off by default. 
 
 ## Prerequisites
 
